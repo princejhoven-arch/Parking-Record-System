@@ -1,0 +1,8 @@
+#  | Date         | Time-in      | Time-out       | Plate Number   | Vehicle Type   | Hours Parked | Fee         
+---------------------------------------------------------------------
+1  | 2025-10-20   | 11:03 am     | 5:55 pm        | ASD435         | Car            | 6.87         | ₱137.33      
+2  | 2025-10-20   | 2:06 pm      | Still Parked   | GUJ340         | Motorcycle     | 0.00         | ₱0.00        
+3  | 2025-10-20   | 3:14 pm      | Still Parked   | QTY449         | Van            | 0.00         | ₱0.00        
+
+Total Number of Vehicles: 3
+Total Fees Collected: PHP 137.33
